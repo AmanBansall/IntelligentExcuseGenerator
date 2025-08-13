@@ -1,0 +1,17 @@
+Scenario,Urgency,Excuse
+Work,High,My internet went down suddenly during a meeting and the repair team said it will take hours to fix.
+Work,Medium,My laptop started installing updates right before the deadline and it’s taking longer than expected.
+Work,Low,I'm attending a short workshop this afternoon and will send the report later.
+School,High,I developed a fever overnight and my parents are taking me to the doctor.
+School,Medium,The bus broke down on the way to campus so I will be late for the class.
+School,Low,I’m visiting my grandparents and will not be in class today.
+Social,High,I had to take a family member to the hospital unexpectedly.
+Social,Medium,I’m feeling a bit unwell and would prefer to rest today.
+Social,Low,I'm busy with some personal chores and can't join the meetup.
+Family,High,There’s a sudden medical situation at home, I need to attend to it immediately.
+Family,Medium,My child’s school called me for an urgent meeting.
+Family,Low,I have some errands to run in the neighborhood.
+Work,High,My electricity went out suddenly and the service team said it’ll take a few hours.
+School,Medium,I forgot my assignment at home and need to go back to get it.
+Social,High,My phone broke down and I am trying to get it repaired urgently.
+Family,Medium,We have unexpected guests arriving and I need to help at home.
