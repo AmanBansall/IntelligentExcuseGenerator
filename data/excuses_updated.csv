@@ -1,0 +1,37 @@
+Scenario,Urgency,Excuse
+Work,High,"Power outage in my area, IT expects restoration by evening."
+Work,High,Urgent family medical situation requires me to step out immediately.
+Work,High,Internet service outage in my building; technician is scheduled today.
+Work,Medium,Laptop started a mandatory update right before the deadline.
+Work,Medium,Got pulled into an unplanned client call; will send the deliverable later today.
+Work,Medium,VPN is unstable this morning; trying an alternative network.
+Work,Low,Attending a short internal workshop this afternoon.
+Work,Low,Helping a teammate with a blocker; will resume the task later.
+Work,Low,Scheduling conflict with another meeting; will push the update.
+School,High,Woke up with a high fever and have a doctor's appointment.
+School,High,The bus broke down on the way to campus; arranging alternate transport.
+School,High,Family emergency at home that needs my presence.
+School,Medium,Assignment file got corrupted; requesting a short extension.
+School,Medium,The library system was down last night; couldn't access the readings.
+School,Medium,A group member is unavailable; we are rescheduling our discussion.
+School,Low,Visiting grandparents today and will miss class.
+School,Low,Participating in a department event this afternoon.
+School,Low,Need to complete administrative paperwork on campus.
+Social,High,Had to take a family member to the hospital.
+Social,High,My phone stopped working suddenly; handling repairs urgently.
+Social,High,Unexpected home repair—water leak that needs immediate attention.
+Social,Medium,Not feeling well and prefer to rest today.
+Social,Medium,Heavy traffic due to a road closure; will be significantly late.
+Social,Medium,Need to finish an important errand before I can join.
+Social,Low,Catching up on some pending chores today.
+Social,Low,Have a prior commitment that will run longer than expected.
+Social,Low,I need a quiet evening to recharge; can we reschedule?
+Family,High,Sudden medical situation at home that I must attend to.
+Family,High,Our caregiver is unavailable today; I need to step in.
+Family,High,Emergency at a relative's place; heading there now.
+Family,Medium,School called about my child; need to meet the teacher.
+Family,Medium,Unexpected guests arrived; helping at home.
+Family,Medium,Vehicle issue to sort out at the service center.
+Family,Low,Running neighborhood errands with family.
+Family,Low,Accompanying a relative to a routine checkup.
+Family,Low,Hosting a small get-together at home later.
