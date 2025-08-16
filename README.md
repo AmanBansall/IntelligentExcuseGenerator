@@ -11,4 +11,5 @@ It is an AI/ML based tool that generates realistic excuses based on different sc
 ## What needs to be done:
 - Solve the token access problem so that the user can generate text hassle free.
 - Add tone customization (apologetic, formal, casual).
+- Generate AI proofs like documents,chat screenshots etc. to increase excuse credibility.
 
